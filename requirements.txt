@@ -1,0 +1,7 @@
+django
+django-rest-framework
+drf-spectacular
+djangorestframework-simplejwt
+Pillow
+djangorestframework
+configparser
