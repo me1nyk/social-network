@@ -5,3 +5,4 @@ djangorestframework-simplejwt
 Pillow
 djangorestframework
 configparser
+faker
